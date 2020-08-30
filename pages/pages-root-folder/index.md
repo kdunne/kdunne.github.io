@@ -14,28 +14,28 @@ widget1:
 widget2:
   title: "ATLAS Hadronic Calorimeter Electronics"
   url: 'http://kdunne.github.io/tile/'
-  text: 'PCBs to test upgrades to test remote JTAG control'
+  text: 'Test boards and firmware for remote JTAG control for upgrades to the Hadronic Calorimeter readout electronics'
   image: proasic.jpg 
 widget3:
   title: "Crystalline Xenon Time Projection Chamber"
   url: 'http://kdunne.github.io/crystallize/'
   image: crystalize.jpg
-  text: 'Detecting scintillation in solid xenon with Silicon Photomultipliers'
+  text: 'Detecting scintilliation/electroluminescence signals in a two-phase (solid-vapor) Xenon TPC with Silicon Photomultipliers'
 widget4:
   title: "Neutron-Antineutron Annihiliation Detector"
   url: 'http://kdunne.github.io/nbar/'
   image: nnbar.jpg 
-  text: ''
+  text: 'A prototype calorimeter for the NNbar/HIBEAM experiments at the European Spallation Sourcs'
 widget5:
   title: "Axion Plasma Haloscope"
   url: 'http://kdunne.github.io/crystallize/'
   image: 
-  text: ''
+  text: 'An axion haloscope using tunable plasma metamaterials'
 widget6:
   title: "PWR Effects Pedal Set"
   url: 'http://kdunne.github.io/pwr/'
   image: 
-  text: ''
+  text: 'A set of guitar effects pedals using distortion, overdrive, tone control, and octave/reverse delay'
 
 #
 # Use the call for action to show a button on the frontpage
