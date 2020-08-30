@@ -36,7 +36,6 @@ widget6:
   url: 'http://kdunne.github.io/pwr/'
   image: 
 text: 'A non-particle physics project: a set of custom effects pedals with distortion, overdrive, tone control, and octave + reverse delay for my guitar playing friends <b>P</b>ete, <b>W</b>ess, and <b>R</b>aidy'
-
 widget7:
   title: "Photon-tagged beamline at DESY"
   url: 'http://kdunne.github.io/desy/'
@@ -47,6 +46,12 @@ widget8:
   url: 'http://kdunne.github.io/nasa/'
   image: nasa-cctv.jpg 
   text: 'Upgrades to active illumination setup for eye-movement based fatigue measurements in the Human Factors Division at NASA Ames Research Center'
+widget9:
+  title: "Outreach + Service"
+  url: 'http://kdunne.github.io/outreach/'
+  image:  
+  text: ''
+
 
 
 
