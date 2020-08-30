@@ -10,7 +10,7 @@ widget1:
   title: "ATLAS Pixel Detector Electronics"
   url: 'http://kdunne.github.io/pixel/'
   image: fei4b-size.jpg 
-  text: 'Quad modules of FEI4B and RD53A chips for testing serial powering of Pixel detector modules'
+  text: 'Quad modules of FEI4B and RD53A chips for testing serial powering of Pixel Detector modules'
 widget2:
   title: "ATLAS Hadronic Calorimeter Electronics"
   url: 'http://kdunne.github.io/tile/'
@@ -20,7 +20,7 @@ widget3:
   title: "Crystalline Xenon Time Projection Chamber"
   url: 'http://kdunne.github.io/crystallize/'
   image: crystalize.jpg
-  text: 'Detecting scintilliation/electroluminescence signals in a two-phase (solid-vapor) Xenon TPC with Silicon Photomultipliers'
+  text: 'Detecting scintilliation + e-luminescence signals in a two-phase (solid-vapor) Xenon TPC with silicon photomultipliers'
 widget4:
   title: "Neutron-Antineutron Annihiliation Detector"
   url: 'http://kdunne.github.io/nbar/'
@@ -35,7 +35,7 @@ widget6:
   title: "PWR Effects Pedal Set"
   url: 'http://kdunne.github.io/pwr/'
   image: 
-  text: 'A set of guitar effects pedals using distortion, overdrive, tone control, and octave/reverse delay'
+  text: 'A non-particle physics project: a set of effects pedals with distortion, overdrive, tone control, and octave/reverse delay for my guitar playing friends (P)ete, (W)ess, and (R)aidy'
 
 #
 # Use the call for action to show a button on the frontpage
