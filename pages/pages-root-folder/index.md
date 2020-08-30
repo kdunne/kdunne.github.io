@@ -8,17 +8,17 @@ layout: frontpage
 header:
 widget1:
   title: "ATLAS Pixel Detector Electronics"
-  url: ''
+  url: 'http://kdunne.github.io/pixel/'
   image: fei4b-size.jpg 
   text: ''
 widget2:
   title: "ATLAS Hadronic Calorimeter Electronics"
-  url: ''
+  url: 'http://kdunne.github.io/tile/'
   text: ''
   image: 
 widget3:
   title: "PWR Effects Pedal Set"
-  url: ''
+  url: 'http://kdunne.github.io/pwr/'
   image: 
   text: ''
 #
