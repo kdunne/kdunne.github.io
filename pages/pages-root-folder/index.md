@@ -10,17 +10,17 @@ widget1:
   title: "ATLAS Pixel Detector Electronics"
   url: 'http://kdunne.github.io/pixel/'
   image: fei4b-size.jpg 
-  text: ''
+  text: 'Quad modules of FEI4B and RD53A chips for testing serial powering of Pixel detector modules'
 widget2:
   title: "ATLAS Hadronic Calorimeter Electronics"
   url: 'http://kdunne.github.io/tile/'
-  text: ''
+  text: 'PCBs to test upgrades to test remote JTAG control'
   image: proasic.jpg 
 widget3:
   title: "Crystalline Xenon Time Projection Chamber"
   url: 'http://kdunne.github.io/crystallize/'
   image: crystalize.jpg
-  text: ''
+  text: 'Detecting scintillation in solid xenon with Silicon Photomultipliers'
 widget4:
   title: "Neutron-Antineutron Annihiliation Detector"
   url: 'http://kdunne.github.io/nbar/'
