@@ -9,7 +9,7 @@ header:
 widget1:
   title: "ATLAS Pixel Detector Electronics"
   url: ''
-  image: 
+  image: fei4b-size.jpg 
   text: ''
 widget2:
   title: "ATLAS Hadronic Calorimeter Electronics"
