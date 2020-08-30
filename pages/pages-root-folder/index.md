@@ -22,7 +22,7 @@ widget3:
   image: crystalize.jpg
   text: 'Detecting scintilliation + e-luminescence signals in a two-phase (solid-vapor) Xenon TPC with silicon photomultipliers'
 widget4:
-  title: "Neutron-Antineutron Annihiliation Detector"
+  title: "Neutron-Antineutron Annihilation Detector"
   url: 'http://kdunne.github.io/nbar/'
   image: nnbar.jpg 
   text: 'A prototype calorimeter for the NNbar/HIBEAM experiments at the European Spallation Sourcs'
@@ -35,7 +35,7 @@ widget6:
   title: "PWR Effects Pedal Set"
   url: 'http://kdunne.github.io/pwr/'
   image: 
-  text: 'A non-particle physics project: a set of effects pedals with distortion, overdrive, tone control, and octave/reverse delay for my guitar playing friends (P)ete, (W)ess, and (R)aidy'
+  text: 'A non-particle physics project: a set of effects pedals with distortion, overdrive, tone control, and octave/reverse delay<br>for my guitar playing friends<br> <b>P</b>ete, <b>W</b>ess, and <b>R</b>aidy'
 
 #
 # Use the call for action to show a button on the frontpage
