@@ -23,7 +23,7 @@ widget3:
   text: 'Detecting scintilliation + e-luminescence signals in a two-phase (solid-vapor) Xenon TPC with silicon photomultipliers'
 widget4:
   title: "Neutron-Antineutron Annihilation Detector"
-  url: 'http://kdunne.github.io/nbar/'
+  url: 'http://kdunne.github.io/nnbar/'
   image: nnbar.jpg 
   text: 'A prototype calorimeter for the NNbar/HIBEAM experiments at the European Spallation Sourcs'
 widget5:
@@ -36,6 +36,19 @@ widget6:
   url: 'http://kdunne.github.io/pwr/'
   image: 
   text: 'A non-particle physics project: a set of effects pedals with distortion, overdrive, tone control, and octave/reverse delay<br>for my guitar playing friends<br> <b>P</b>ete, <b>W</b>ess, and <b>R</b>aidy'
+
+widget7:
+  title: "Photon-tagged beamline at DESY"
+  url: 'http://kdunne.github.io/desy/'
+  image: desy 
+  text: 'Feasability study for photon-tagging at the DESY testbeam facility'
+widget8:
+  title: "Active Near-IR Illumination for Eye Movement Tracking at NASA Ames"
+  url: 'http://kdunne.github.io/nasa/'
+  image: 
+  text: 'Upgrades to active illumination setup for eye-movement based fatigue measurements in the Human Factors Division at NASA Ames Research Center'
+
+
 
 #
 # Use the call for action to show a button on the frontpage
