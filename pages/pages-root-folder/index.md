@@ -40,7 +40,7 @@ widget6:
 widget7:
   title: "Photon-tagged beamline at DESY"
   url: 'http://kdunne.github.io/desy/'
-  image: desy-telescope.jpg 
+  image: brm.jpg 
   text: 'Feasability study for photon-tagging at the DESY testbeam facility'
 widget8:
   title: "Active Near-IR Illumination for Eye Movement Tracking at NASA Ames"
