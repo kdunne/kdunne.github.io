@@ -10,17 +10,17 @@ header:
 widget1:
   title: "ATLAS Pixel Detector Electronics"
   url: ''
-  image: widget-1-302x182.jpg
+  image: 
   text: ''
 widget2:
   title: "ATLAS Hadronic Calorimeter Electronics"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: ''
   text: ''
   image: 
 widget3:
   title: "PWR Effects Pedal Set"
   url: ''
-  image: widget-github-303x182.jpg
+  image: 
   text: ''
 #
 # Use the call for action to show a button on the frontpage
@@ -36,7 +36,7 @@ widget3:
 #  url: https://tinyletter.com/feeling-responsive
 #  text: Inform me about new updates and features ›
 #  style: alert
-permalink: /index.html
+#permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
@@ -44,9 +44,9 @@ permalink: /index.html
 homepage: true
 ---
 
-#<div id="videoModal" class="reveal-modal large" data-reveal="">
-#  <div class="flex-video widescreen vimeo" style="display: block;">
-#    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-#  </div>
-#  <a class="close-reveal-modal">&#215;</a>
-#</div>
+<div id="videoModal" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
