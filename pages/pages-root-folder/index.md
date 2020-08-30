@@ -6,7 +6,6 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "ATLAS Pixel Detector Electronics"
   url: ''
@@ -36,11 +35,14 @@ widget3:
 #  url: https://tinyletter.com/feeling-responsive
 #  text: Inform me about new updates and features ›
 #  style: alert
-#permalink: /index.html
+
+permalink: /index.html
+
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
+
 homepage: true
 ---
 
