@@ -35,7 +35,7 @@ widget6:
   title: "PWR Effects Pedal Set"
   url: 'http://kdunne.github.io/pwr/'
   image: 
-  text: 'A non-particle physics project: a set of custom effects pedals with distortion, overdrive, tone control, and octave/reverse delay<br>for my guitar playing friends<br> <b>P</b>ete, <b>W</b>ess, and <b>R</b>aidy'
+  text: 'A non-particle physics project: a set of custom effects pedals with distortion, overdrive, tone control, and octave/reverse delay for my guitar playing friends <b>P</b>ete, <b>W</b>ess, and <b>R</b>aidy'
 
 widget7:
   title: "Photon-tagged beamline at DESY"
