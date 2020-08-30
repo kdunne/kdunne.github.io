@@ -2,27 +2,27 @@
   url: "/"
   side: left
 
-- title: ATLAS Pixel Electronics
-  url: "/pixel/"
-  side: left
-  dropdown:
-  - title: "FEI4B Quad Module"
-    url: "/pixel/feib/"
-  - title: "RD53A Quad Module"
-    url: "/pixel/rd53a/"
+  #- title: ATLAS Pixel Electronics
+  #url: "/pixel/"
+  #side: left
+  #dropdown:
+  #- title: "FEI4B Quad Module"
+  #  url: "/pixel/feib/"
+  #- title: "RD53A Quad Module"
+  #  url: "/pixel/rd53a/"
 
-- title:  ATLAS Hadronic Calorimeter Electronics
-  url: "/tile/"
-  side: left
-  dropdown:
-  - title: "GBTx Test Board"
-    url: "/tile/gbtx/"
-  - title: "ProASIC3 Mezzannine"
-    url: "/tile/proasic/"
+  #- title:  ATLAS Hadronic Calorimeter Electronics
+  #url: "/tile/"
+  #side: left
+  #dropdown:
+  #- title: "GBTx Test Board"
+  #  url: "/tile/gbtx/"
+  #- title: "ProASIC3 Mezzannine"
+  #  url: "/tile/proasic/"
 
-- title: "PWR Effects Pedal Set"
-  url: "/pwr/"
-  side: left
+  #- title: "PWR Effects Pedal Set"
+  #url: "/pwr/"
+  #side: left
   #  dropdown:
   #- title: "Header with Full-Width-Image"
   #  url: "/design/header-full-width-image/"
@@ -30,12 +30,12 @@
   #  url: "/design/header-image-pattern/"
  
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  #- title: Blog
+  #url: "/blog/"
+  #side: left
+  #dropdown:
+  #- title: "Blog Archive"
+  #  url: "/blog/archive/"
 
     #- title: "Search"
     #url: "/search/"
