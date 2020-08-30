@@ -15,12 +15,18 @@ widget2:
   title: "ATLAS Hadronic Calorimeter Electronics"
   url: 'http://kdunne.github.io/tile/'
   text: ''
-  image: 
+  image: proasic.jpg 
 widget3:
   title: "PWR Effects Pedal Set"
   url: 'http://kdunne.github.io/pwr/'
   image: 
   text: ''
+widget4:
+  title: "PWR Effects Pedal Set"
+  url: 'http://kdunne.github.io/pwr/'
+  image: 
+  text: ''
+
 #
 # Use the call for action to show a button on the frontpage
 #
