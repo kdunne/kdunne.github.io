@@ -28,7 +28,7 @@ widget4:
   text: 'A prototype calorimeter for the NNbar/HIBEAM experiments at the European Spallation Sourcs'
 widget5:
   title: "Axion Plasma Haloscope"
-  url: 'http://kdunne.github.io/crystallize/'
+  url: 'http://kdunne.github.io/axiondm/'
   image: haloscope.jpg 
   text: 'An axion haloscope using tunable plasma metamaterials'
 widget6:
