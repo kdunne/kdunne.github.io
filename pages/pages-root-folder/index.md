@@ -17,11 +17,21 @@ widget2:
   text: ''
   image: proasic.jpg 
 widget3:
-  title: "PWR Effects Pedal Set"
-  url: 'http://kdunne.github.io/pwr/'
-  image: 
+  title: "Crystalline Xenon Time Projection Chamber"
+  url: 'http://kdunne.github.io/crystallize/'
+  image: crystalize.jpg
   text: ''
 widget4:
+  title: "Neutron-Antineutron Annihiliation Detector"
+  url: 'http://kdunne.github.io/nbar/'
+  image: nnbar.jpg 
+  text: ''
+widget5:
+  title: "Axion Plasma Haloscope"
+  url: 'http://kdunne.github.io/crystallize/'
+  image: 
+  text: ''
+widget6:
   title: "PWR Effects Pedal Set"
   url: 'http://kdunne.github.io/pwr/'
   image: 
