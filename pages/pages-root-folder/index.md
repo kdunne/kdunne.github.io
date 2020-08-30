@@ -34,7 +34,7 @@ widget5:
 widget6:
   title: "PWR Effects Pedal Set"
   url: 'http://kdunne.github.io/pwr/'
-  image:  
+  image: sick.jpg 
   text: 'A non-particle physics project: a set of custom effects pedals with distortion, overdrive, tone control, and octave + reverse delay for my guitar playing friends <b>P</b>ete, <b>W</b>ess, and <b>R</b>aidy'
 widget7:
   title: "Photon-tagged beamline at DESY"
@@ -42,7 +42,7 @@ widget7:
   image: brm.jpg 
   text: 'Feasability study for photon-tagging at the DESY testbeam facility'
 widget8:
-  title: "Active Near-IR Illumination for Eye Movement Tracking at NASA Ames"
+  title: "Active Near-IR Illumination for Eye Movement Tracking"
   url: 'http://kdunne.github.io/nasa/'
   image: nasa-cctv.jpg 
   text: 'Upgrades to active illumination setup for eye-movement based fatigue measurements in the Human Factors Division at NASA Ames Research Center'
