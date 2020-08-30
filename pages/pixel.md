@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: default
 show_meta: false
 title: "ATLAS Pixel Detector Electronics"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "header_homepage_13.jpg"
 permalink: "/pixel/"
 ---
 1. Open `_config.yml` and work it through, it's well documented
