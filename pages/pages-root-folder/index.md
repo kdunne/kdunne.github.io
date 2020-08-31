@@ -25,12 +25,12 @@ widget4:
   title: "Neutron-Antineutron Annihilation Detector"
   url: 'http://kdunne.github.io/nnbar/'
   image: nnbar.jpg 
-  text: 'A prototype calorimeter for the NNbar/HIBEAM experiments at the European Spallation Sourcs'
+  text: 'A prototype calorimeter for the NNbar/HIBEAM experiments searching for Baryon Number violation at the European Spallation Source and Oak Ridge National Lab'
 widget5:
   title: "Axion Plasma Haloscope"
   url: 'http://kdunne.github.io/axiondm/'
   image: haloscope.jpg 
-  text: 'An axion haloscope using tunable plasma metamaterials'
+  text: 'An axion haloscope using tunable cryogenic plasma metamaterials'
 widget6:
   title: "PWR Effects Pedal Set"
   url: 'http://kdunne.github.io/pwr/'
