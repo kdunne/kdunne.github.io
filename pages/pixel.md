@@ -9,8 +9,4 @@ header:
 permalink: "/pixel/"
 ---
 
-- assa
--sdsd
-
-asdfsdf
 
