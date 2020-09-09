@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "ATLAS Pixel Detector Electronics"
+title: "PWR Effects Pedal Set"
 subheadline: ""
 teaser: ""
 header:
 
-permalink: "/pixel/"
+permalink: "/pwr/"
 ---
 

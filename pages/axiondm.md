@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "ATLAS Pixel Detector Electronics"
+title: "Axion Plasma Haloscope"
 subheadline: ""
 teaser: ""
 header:
 
-permalink: "/pixel/"
+permalink: "/axiondm/"
 ---
 

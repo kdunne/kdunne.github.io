@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "ATLAS Pixel Detector Electronics"
+title: "ATLAS Hadronic Calorimeter Electronics"
 subheadline: ""
 teaser: ""
 header:
 
-permalink: "/pixel/"
+permalink: "/tile/"
 ---
 

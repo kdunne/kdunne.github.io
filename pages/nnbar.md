@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "ATLAS Pixel Detector Electronics"
+title: "Neutron-Antineutron Annihilation Detector"
 subheadline: ""
 teaser: ""
 header:
 
-permalink: "/pixel/"
+permalink: "/nnbar/"
 ---
 
